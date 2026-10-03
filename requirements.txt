@@ -1,0 +1,13 @@
+# requirements
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+torch
+torchvision
+torchaudio
+torchinfo
+tqdm
+streamlit
+pillow
