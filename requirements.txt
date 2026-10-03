@@ -11,3 +11,4 @@ torchinfo
 tqdm
 streamlit
 pillow
+ipykernel
